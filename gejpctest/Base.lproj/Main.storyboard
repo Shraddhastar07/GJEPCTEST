@@ -39,12 +39,30 @@
                                     <action selector="clickHere:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jEk-Kp-n2K"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZBv-iQ-Tsi">
+                                <rect key="frame" x="147.5" y="471.5" width="80" height="80"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="80" id="1gX-RB-qxN"/>
+                                    <constraint firstAttribute="height" constant="80" id="nLN-cN-teX"/>
+                                </constraints>
+                                <size key="titleShadowOffset" width="0.0" height="5"/>
+                                <state key="normal" title="Click Here">
+                                    <color key="titleColor" red="1" green="0.95394169849999999" blue="0.12844527780000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="clickHere:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ltn-Pt-9WN"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="ZBv-iQ-Tsi" firstAttribute="leading" secondItem="eFv-6d-5vO" secondAttribute="leading" id="1dp-7h-3Uu"/>
+                            <constraint firstItem="ZBv-iQ-Tsi" firstAttribute="trailing" secondItem="eFv-6d-5vO" secondAttribute="trailing" id="3dK-TY-Lp8"/>
                             <constraint firstItem="eFv-6d-5vO" firstAttribute="top" secondItem="vBE-30-fHS" secondAttribute="bottom" constant="30" id="OQr-DX-Qhp"/>
                             <constraint firstItem="vBE-30-fHS" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="TAf-gW-hiu"/>
                             <constraint firstItem="vBE-30-fHS" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="sbh-Vw-fJl"/>
+                            <constraint firstItem="ZBv-iQ-Tsi" firstAttribute="top" secondItem="eFv-6d-5vO" secondAttribute="bottom" constant="10" id="tVk-5e-zf2"/>
                             <constraint firstItem="eFv-6d-5vO" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="uZr-Ps-tN8"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
