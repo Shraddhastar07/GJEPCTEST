@@ -18,7 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"shraddha");
-    // Do any additional setup after loading the view, typically from a nib.
+//    NSLog(@"Thursday2019");
+   NSLog(@"happy new year 2019");
 }
 
 
