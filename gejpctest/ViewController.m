@@ -24,6 +24,7 @@
 - (IBAction)clickHere:(id)sender {
     
     NSLog(@"Hello, How are you ?");
+    NSLog(@"Button Clicked");
     
 }
 
