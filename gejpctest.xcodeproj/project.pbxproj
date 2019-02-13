@@ -16,6 +16,7 @@
 		2B4344CF2213E47A00922D51 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4344CE2213E47A00922D51 /* main.m */; };
 		2B4344D92213E47A00922D51 /* gejpctestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4344D82213E47A00922D51 /* gejpctestTests.m */; };
 		2B4344E42213E47A00922D51 /* gejpctestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4344E32213E47A00922D51 /* gejpctestUITests.m */; };
+		2B4344F22213F6EA00922D51 /* IIJS SIGNATURE LOGO 243x184.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B4344F12213F6EA00922D51 /* IIJS SIGNATURE LOGO 243x184.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		2B4344DF2213E47A00922D51 /* gejpctestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gejpctestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B4344E32213E47A00922D51 /* gejpctestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gejpctestUITests.m; sourceTree = "<group>"; };
 		2B4344E52213E47A00922D51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B4344F12213F6EA00922D51 /* IIJS SIGNATURE LOGO 243x184.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IIJS SIGNATURE LOGO 243x184.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 			children = (
 				2B4344BC2213E47800922D51 /* AppDelegate.h */,
 				2B4344BD2213E47800922D51 /* AppDelegate.m */,
+				2B4344F12213F6EA00922D51 /* IIJS SIGNATURE LOGO 243x184.png */,
 				2B4344BF2213E47800922D51 /* ViewController.h */,
 				2B4344C02213E47800922D51 /* ViewController.m */,
 				2B4344C22213E47800922D51 /* Main.storyboard */,
@@ -240,6 +243,7 @@
 			files = (
 				2B4344CC2213E47A00922D51 /* LaunchScreen.storyboard in Resources */,
 				2B4344C92213E47A00922D51 /* Assets.xcassets in Resources */,
+				2B4344F22213F6EA00922D51 /* IIJS SIGNATURE LOGO 243x184.png in Resources */,
 				2B4344C42213E47800922D51 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
