@@ -17,9 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"shraddha");
-//    NSLog(@"Thursday2019");
-   NSLog(@"happy new year 2019");
+    NSLog(@"laxmi");
+
 }
 
 
