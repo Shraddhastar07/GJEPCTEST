@@ -25,7 +25,7 @@
     
 
     NSLog(@"happy morning!!!!!!");
-    
+    NSLog(@"wednesday");
 }
 
 @end
